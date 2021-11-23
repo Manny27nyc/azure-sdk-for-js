@@ -68,7 +68,7 @@
     "eslint-plugin-tsdoc": "^0.2.10"
   },
   "dependencies": {
-    "@typescript-eslint/typescript-estree": "4.13.0",
+    "@typescript-eslint/typescript-estree": "4.33.0",
     "@types/eslint": "7.2.6",
     "@types/estree": "0.0.46",
     "eslint-config-prettier": "^7.0.0",
